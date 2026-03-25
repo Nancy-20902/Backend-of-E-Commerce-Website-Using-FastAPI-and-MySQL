@@ -1,0 +1,7 @@
+alembic
+app
+fastapi
+jose
+passlib
+pydantic
+SQLAlchemy
