@@ -5,7 +5,7 @@ version: '3.8'
 
 services:
   app:
-    image: backend-of-e-commerce-website-using-fastapi-and-mysql:76478c1
+    image: backend-of-e-commerce-website-using-fastapi-and-mysql:38f52bc
     restart: unless-stopped
     ports:
       - "8000:8000"
