@@ -1,6 +1,6 @@
 services:
   app:
-    image: backend-of-e-commerce-website-using-fastapi-and-mysql:6719940
+    image: backend-of-e-commerce-website-using-fastapi-and-mysql:4ec06ee
     ports:
       - 80:8000
     restart: unless-stopped
