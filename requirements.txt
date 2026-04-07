@@ -5,3 +5,4 @@ jose
 passlib
 pydantic
 SQLAlchemy
+pymysql
