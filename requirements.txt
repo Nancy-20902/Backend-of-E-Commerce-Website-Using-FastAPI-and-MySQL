@@ -4,5 +4,5 @@ pydantic[email]
 passlib[bcrypt]
 python-jose[cryptography]
 alembic
-PyMySQL
+pymysql
 email-validator
