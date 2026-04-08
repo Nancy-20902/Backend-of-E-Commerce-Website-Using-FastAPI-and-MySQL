@@ -1,8 +1,8 @@
 services:
   app:
-    image: backend-of-e-commerce-website-using-fastapi-and-mysql:6a6349c
+    image: backend-of-e-commerce-website-using-fastapi-and-mysql:d4f89b0
     ports:
-      - 80:8000
+      - "65255:8000"
     restart: unless-stopped
     environment:
       - DATABASE_URL=mysql+pymysql://appuser:apppassword@mysql:3306/appdb
